@@ -1,3 +1,17 @@
 body{
     background-image: url(viagem.png);
 }
+h1{
+    color: #ffd000;
+    font-style: italic;
+}
+.botoes{
+    color: aliceblue;
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    padding-left: 1380px;
+}
+a{
+    gap: 50px;
+}
