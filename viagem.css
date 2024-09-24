@@ -5,7 +5,7 @@ h1{
     color: #ffd000;
     font-style: italic;
 }
-.botoes{
+.banner{
     color: aliceblue;
     font-style: italic;
     display: flex;
@@ -13,5 +13,17 @@ h1{
     padding-left: 1380px;
 }
 a{
-    gap: 50px;
+    margin: 20px;
+}
+.texto{
+    color: aliceblue;
+    font-style: italic;
+    width: 658px;
+    height: 217px;
+    font-size: 23px;
+    padding-left: 1124px;
+    margin-top: 121px;
+}
+.botao{
+    padding-left: 1124px;
 }
